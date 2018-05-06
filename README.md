@@ -1,7 +1,7 @@
 This is a project for the Nand2tetris part -2 course in Coursera.
 
-Here, I built a Syntax Analyzer for their hack computer using java.
+Here, I built a Syntax Analyzer for their JACK language using java.
 
-It converts the high level JACK language into tree-like structure in xml format 
+It parses the high level JACK language and convert it into tree-like structure in xml format (for each token). 
 
 Code is bit messy but it works.
