@@ -4,6 +4,8 @@ Here, I built a full-fledged compiler for a java-like programming language calle
 
 It converts any high level Jack program to an intermediate VM code, like *javac* bytecode.
 
+Translator is to be run in command line.
+
 Code is bit messy but it works.
 
 More information about Jack Language:-
