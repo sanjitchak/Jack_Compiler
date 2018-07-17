@@ -13,7 +13,6 @@ import java.util.Scanner;
 import java.util.regex.Pattern;
 
 public class Jack_compiler {
-
 	static String file;
 	static FileWriter fw;
 	static BufferedWriter bw;
